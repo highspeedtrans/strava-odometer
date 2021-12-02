@@ -17,5 +17,9 @@ personal project to make a personal odometer using ESP8266, Strava API, and an o
     - examples for connecting in client mode didn't work / were super unreliable to connect
     - 0-vote answer on [Arduino Stack Exchange post](https://arduino.stackexchange.com/a/71885/81605) contained the fix for me!
         - set a wifi hostname like `WiFi.hostname("ESP-host")`  before calling `WiFi.begin`
+        - nevermind this isn't toally reliable either
+    - look into router-side settings, I did fuck that up a few days ago doing DDNS stuff
+        - look at a-b-g-n-ac settings
+        - look at channel settings (can't use 13 / 14)
 
 ### mechanical
