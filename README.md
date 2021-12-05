@@ -10,6 +10,7 @@ personal project to make a personal odometer using ESP8266, Strava API, and an o
 
 ### software
 - [Strava API docs](https://developers.strava.com/docs/reference/)
+    - [getting started](https://developers.strava.com/docs/getting-started/)
 - [Sparkfun IoT Experiment Guide](https://learn.sparkfun.com/tutorials/internet-of-things-experiment-guide) with examples of ESP8266 used in client mode
 - extremely barebones [Strava stats display on ESP8266](https://github.com/tadas-s/StravaDistanceDisplay) (no real documentation or anything, but very simple)
 - https://stackoverflow.com/questions/57385712/how-to-access-strava-api
